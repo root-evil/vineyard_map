@@ -8,7 +8,7 @@
     {
       "Name": "Deploy",
       "Repository": "https://github.com/root-evil/vineyard_deploy.git",
-      "Port": 6666,
+      "Port": 5999,
       "Path": "vineyard_deploy"
     },
     {
@@ -19,26 +19,26 @@
     },
     {
       "Name": "Processor",
-      "Repository": "https://github.com/root-evil/vineyard_processor",
-      "Port": 5500,
+      "Repository": "https://github.com/root-evil/vineyard_processor.git",
+      "Port": 5002,
       "Path": "vineyard_processor"
     },
     {
       "Name": "Bd",
-      "Repository": "https://github.com/root-evil/vineyard_bd",
-      "Port": 7000,
+      "Repository": "https://github.com/root-evil/vineyard_bd.git",
+      "Port": 5003,
       "Path": "vineyard_bd"
     },
     {
       "Name": "Monitor",
-      "Repository": "https://github.com/root-evil/vineyard_monitor",
-      "Port": 8000,
+      "Repository": "https://github.com/root-evil/vineyard_monitor.git",
+      "Port": 5998,
       "Path": "vineyard_monitor"
     },
     {
       "Name": "Front",
-      "Repository": "https://github.com/root-evil/vineyard_front",
-      "Port": 4000,
+      "Repository": "https://github.com/root-evil/vineyard_front.git",
+      "Port": 5001,
       "Path": "vineyard_front"
     }
 ]
